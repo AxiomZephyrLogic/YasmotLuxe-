@@ -1,2 +1,2 @@
-# YasmotLuxe-
-The Yasmotluxe website is built to provide an intuitive, "corporate-clean," and seamless user experience. It highlights the brand's latest collections, showcases craftsmanship, and provides a professional interface for customers to explore and engage with the brand's offerings. 
+# Yasmotluxe Official Website
+Welcome to the official repository for the Yasmotluxe website. Yasmotluxe is a premium fashion brand dedicated to providing high-quality, elegant, and timeless apparel. This website serves as the digital storefront and portfolio, designed to reflect the brand's sophisticated aesthetic and commitment to excellence.
